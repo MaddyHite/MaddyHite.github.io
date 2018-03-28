@@ -4,3 +4,4 @@ If you want to know more about me please feel free to check out [my facebook](ht
 ![me and my sister on the beach](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/unnamed-5.jpg?raw=true)
 # Lehigh infographic 
 ![Undergraduate Enrollment](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Undergraduate%20Enrollment.png?raw=true)
+![Rio olympics timeline]. (https://timeline.knightlab.com/#preview-embed)
