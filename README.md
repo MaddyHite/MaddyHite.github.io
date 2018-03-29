@@ -6,3 +6,4 @@ If you want to know more about me please feel free to check out [my facebook](ht
 ![Undergraduate Enrollment](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Undergraduate%20Enrollment.png?raw=true)
 # Rio
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1M60Y62y2_NiINPVG5SbyZroonbz1bOvkmSa_kpvSPwQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+[My infographic](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Most%20Popular%20Fast%20Food%20Chains%20in%20America!!!!!!!!!.png)
