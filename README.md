@@ -13,3 +13,4 @@ If you want to know more about me please feel free to check out [my facebook](ht
 # History of the Pittsburgh Steelers Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dUiv4CEpOlvNDrUKl9_w-pvcLxTUO3wMQC72jI0NWW4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+# Here is a timeline of thr Pittsburgh Steelers. They are one of the earliest teams created and have remained a domiant force in the NFL for the past 50 years. This is a brief overview of their history.  
