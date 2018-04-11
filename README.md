@@ -17,3 +17,5 @@ If you want to know more about me please feel free to check out [my facebook](ht
 # Increase in tuition at higher education schools in Pennsylvania
 ![Increase in tuition at higher education schools in Pennsylvania](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/tuitionchartbuilder.png?raw=true)
  In this project I explored three different types of colleges (private university,public university and private college) and their tuition changes over the past 10 years. In my findings, I learned that although every rate went up, the small private college, Moravian college, had the highest overall percentage increase in tuition.
+# Arts in the Bethlehem Area 
+![Arts center in the Bethlehem Area](<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+161rlrlC7AYAZl2by2bGUS9G3Fq1pmEgjw2xvhqar&amp;viz=MAP&amp;h=false&amp;lat=40.61826960654739&amp;lng=-75.36767439783932&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>) 
