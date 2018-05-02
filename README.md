@@ -2,7 +2,7 @@
 
 # Comic
 
-![Introduction to my Portfolio](<iframe src="//www.pixton.com/embed/7by4ftgj"frameborder="0"width="100%"height="384"allowfullscreen></iframe>)
+![Introduction to my Portfolio](<iframe src="//www.pixton.com/embed/7by4ftgj"frameborder="0"width="100%"height="384"allowfullscreen></iframe>) 
 
 ## my name is Maddy Hite and I am sophomore journalism major at Lehigh University. I am using this website as my portfolio!
 If you want to know more about me please feel free to check out [my facebook](https://www.facebook.com/)
