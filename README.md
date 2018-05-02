@@ -2,7 +2,7 @@
 
 # Comic
 
-![Introduction](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Screen%20Shot%202018-05-01%20at%2010.09.15%20PM.png)
+![Introduction](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Screen%20Shot%202018-05-01%20at%2010.09.15%20PM.png?raw=true)
 Welcome to my portfolio! I hope you enjoy learning more about me and my projects. 
 
  my name is Maddy Hite and I am sophomore journalism major at Lehigh University. I am using this website as my portfolio!
