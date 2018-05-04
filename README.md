@@ -8,19 +8,12 @@ If you want to know more about me please feel free to check out [my LinkedIn](ht
 # Comic
 
 ![Introduction](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Screen%20Shot%202018-05-01%20at%2010.09.15%20PM.png?raw=true)
+
 Welcome to my portfolio! I hope you enjoy learning more about me and my projects. 
 
-# Lehigh infographic 
-![Undergraduate Enrollment](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Undergraduate%20Enrollment.png?raw=true)
-
-# Rio
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1M60Y62y2_NiINPVG5SbyZroonbz1bOvkmSa_kpvSPwQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Fast Food infographic
 ![Fast Food Infographic](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Most%20Popular%20Fast%20Food%20Chains%20in%20America!!!!!!!!!.png?raw=true)
-
-
-![Lehigh Undergraduate Enrollment](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/2016_Percent_of_Unergraduate_Enrollment__2016_Percent_of_Unergraduate_Enrollment__chartbuilder.png?raw=true)
 
 # History of the Pittsburgh Steelers Timeline
 
@@ -31,18 +24,12 @@ Welcome to my portfolio! I hope you enjoy learning more about me and my projects
 ![Increase in tuition at higher education schools in Pennsylvania](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/tuitionchartbuilder.png?raw=true)
  In this project I explored three different types of colleges (private university,public university and private college) and their tuition changes over the past 10 years. In my findings, I learned that although every rate went up, the small private college, Moravian college, had the highest overall percentage increase in tuition.
 
-# Arts in the Bethlehem Area 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+161rlrlC7AYAZl2by2bGUS9G3Fq1pmEgjw2xvhqar&amp;viz=MAP&amp;h=false&amp;lat=40.61826960654739&amp;lng=-75.36767439783932&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
-# Top Baby Names in the United States
-project
-<div class='tableauPlaceholder' id='viz1523895629445' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3K&#47;3KXFWCB5F&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;3KXFWCB5F' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3K&#47;3KXFWCB5F&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1523895629445');var vizElement = divElement.getElementsByTagName('object')[0];  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
 # Most Popular NFL Teams by State in the United States
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1vruPRo0QypH36gu_TD2ubkOhQ-f0VvD_Axp4SrU8&amp;viz=MAP&amp;h=false&amp;lat=40.30716820383361&amp;lng=-90.29721901249997&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
 In this project I wanted to discover what the most popular NFL team was in each state, since not every state has their own team and not every state's home team is the most popular one. What I found was that even the most popular teams (the Pittsburgh Steelers and the Green Bay Packers) were underrepresented on the map even though they were ranked in the top 3 most popular teams nationwide. This was interesting because I found that many of the teams fanbase is localized by region and though it may seem like teams such as the Minnesota Vikings and the Kansas City Chiefs are widely popular, they are fact some of the least popular teams in the country; this is due to population density per state. In my research I found the most populated city per state (where the icons are located) then searched the travel time from that city to the state’s favorite NFL team’s stadium. My sources include CBSsports.com, Business Insider, Google Maps and Wikipedia. For images: Brandreps, Seeklogo, BleacherReport, NFL.com, Dribble and fbschedules. 
 
-# Surviors per Class on the Titantic 
-<div class='tableauPlaceholder' id='viz1524499805585' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book700_0&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book700_0&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book700_0&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1524499805585');var vizElement = divElement.getElementsByTagName('object')[0];                 vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';         vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
 # NCAA Data on College Sports Teams 
 <div class='tableauPlaceholder' id='viz1525054527089' style='position: relative'><noscript><a href='#'><img alt='NCAA Data ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;D8&#47;D8YP33GBF&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;D8YP33GBF' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;D8&#47;D8YP33GBF&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1525054527089');var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
