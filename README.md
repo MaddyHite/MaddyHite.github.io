@@ -1,13 +1,13 @@
 # Maddy Hite Portfolio 
 
+ my name is Maddy Hite and I am sophomore journalism major at Lehigh University. I am using this website as my portfolio!
+If you want to know more about me please feel free to check out [my facebook](https://www.facebook.com/)
+![me and my sister on the beach](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/unnamed-5.jpg?raw=true)
+
 # Comic
 
 ![Introduction](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Screen%20Shot%202018-05-01%20at%2010.09.15%20PM.png?raw=true)
 Welcome to my portfolio! I hope you enjoy learning more about me and my projects. 
-
- my name is Maddy Hite and I am sophomore journalism major at Lehigh University. I am using this website as my portfolio!
-If you want to know more about me please feel free to check out [my facebook](https://www.facebook.com/)
-![me and my sister on the beach](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/unnamed-5.jpg?raw=true)
 
 # Lehigh infographic 
 ![Undergraduate Enrollment](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Undergraduate%20Enrollment.png?raw=true)
