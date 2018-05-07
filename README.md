@@ -1,6 +1,6 @@
-# Maddy Hite Portfolio 
+# About Me
 
- Welcome to my portfolio! My name is Maddy Hite and I am sophomore Journalism and Theatre major at Lehigh University. 
+ Welcome to my portfolio! My name is Maddy Hite and I am sophomore Journalism and Theatre major at Lehigh University. I have grown up around sports, they are my passion and my portfolio explores my interest at a deeper level through these projects I have created.
 If you want to know more about me please feel free to check out [my LinkedIn](https://www.linkedin.com/feed/)
 
 ![Formal Photo](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/imageedit_4_8435498449.png?raw=true)
