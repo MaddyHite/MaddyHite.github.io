@@ -12,8 +12,8 @@ If you want to know more about me please feel free to check out [my LinkedIn](ht
 Welcome to my portfolio! I hope you enjoy learning more about me and my projects. 
 
 
-# Fast Food infographic
-![Fast Food Infographic](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Most%20Popular%20Fast%20Food%20Chains%20in%20America!!!!!!!!!.png?raw=true)
+# Infographic
+![Pro after College](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Chances%20of%20Going%20Pro%20After%20College.png?raw=true)
 
 # History of the Pittsburgh Steelers Timeline
 
