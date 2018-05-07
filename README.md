@@ -27,7 +27,7 @@ Welcome to my portfolio! I hope you enjoy learning more about me and my projects
 
  Here is a timeline of the Pittsburgh Steelers. They are one of the earliest teams founded and have remained a domiant force in the NFL for the past 50 years. Throughout their history, they have merged with other teams, created a new name, a new logo and have moved to three different stadiums. The Steelers hold the record of the most Super Bowls ever won by a team and are considered to have the most amount of fans of a team across the country. My sources are from NFL.com and Wikipedia  
 
-# Increase in tuition at higher education schools in Pennsylvania
+# Increase in Tuition at Higher Education Schools in Pennsylvania
 
 ![Increase in tuition at higher education schools in Pennsylvania](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/tuitionchartbuilder.png?raw=true)
 
