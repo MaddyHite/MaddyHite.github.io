@@ -31,7 +31,7 @@ Welcome to my portfolio! I hope you enjoy learning more about me and my projects
 
 ![Increase in tuition at higher education schools in Pennsylvania](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/tuitionchartbuilder.png?raw=true)
 
- In this project I explored three different types of colleges (private university,public university and private college) and their tuition changes over the past 10 years. In my findings, I learned that although every rate went up, the small private college, Moravian college, had the highest overall percentage increase in tuition.
+In this project I explored three different types of colleges (private university, public university and private college) and their tuition changes over the past 10 years. In my findings, I learned that although every rate went up, the small private college, Moravian college, had the highest overall percentage increase in tuition. While Moravian and Lehigh University appear to be on the same constant trend upward, with Lehigh Univeristy having an overall higher tuition to begin with, Moravian College has the largest percent increase over the past 10 years. In 2015, Lehigh University did not increase its tuition, it in fact decreased it a few thousand dollars from the previous year. Lehigh has had a 42.5% increase in tuition over the past 10 years while Moravian College has had a 44.5% increase. 
 
 
 # Most Popular NFL Teams by State in the United States
