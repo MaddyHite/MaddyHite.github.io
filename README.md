@@ -1,6 +1,6 @@
 # About Me
 
- Welcome to my portfolio! My name is Maddy Hite and I am sophomore Journalism and Theatre major at Lehigh University. I have grown up around sports, they are my passion and my portfolio explores my interest at a deeper level through these projects I have created.
+ Welcome to my portfolio! My name is Maddy Hite and I am sophomore Journalism and Theatre major at Lehigh University. I have grown up around sports, they are my passion, and my portfolio explores my interest at a deeper level through the projects I have created below.
 If you want to know more about me please feel free to check out [my LinkedIn](https://www.linkedin.com/feed/)
 
 ![Formal Photo](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/imageedit_4_8435498449.png?raw=true)
@@ -9,29 +9,29 @@ If you want to know more about me please feel free to check out [my LinkedIn](ht
 
 ![Introduction](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Screen%20Shot%202018-05-01%20at%2010.09.15%20PM.png?raw=true)
 
-Welcome to my portfolio! I hope you enjoy learning more about me and my projects. 
+Welcome to my portfolio! I hope you enjoy learning more about my projects and sports.
 
 
 # Infographic
 
 ![Pro after College](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/Chances%20of%20Going%20Pro%20After%20College.png?raw=true)
 
- This infographic evaluates the chances an NCAA college athlete has of getting drafted by a professional sports team. NCAA baseball teams place a little less than one out of every 10 baseball players on a professional team, however the process of starting on a MLB team sometimes takes years of competing in the minor leagues if the athlete chooses to pursue this career path. 
+ This infographic evaluates the chances an NCAA college athlete has of getting drafted by a professional sports team. NCAA baseball teams place a little less than one out of every 10 baseball players on a professional team, however the process of starting on a MLB team sometimes takes up to years of competing in the minor leagues if the athlete chooses to pursue this career path. 
  
- This infographic is also surprising because women’s basketball is the “hardest” to make professionally based off of the numbers of athletes that play college women’s basketball and the number of women who are drafted (an average of 34 per year). Women’s professional basketball is not the most popular sport in the United States, so the attention received about how hard it is to make the WNBA is little to none. I would have thought, based off of public reception, that football or men’s basketball would be the hardest sport to get drafted in. My source of the data displayed is from the NCAA.com 
+ This infographic is also surprising because women’s basketball is the “hardest” to get dratfed in professionally, based off of the number of athletes that play college women’s basketball and the number of women who are drafted (an average of 34 per year). Women’s professional basketball is not the most popular sport in the United States, so the attention received about how hard it is to make the WNBA is little to none. I would have thought, based off of public reception, that football or men’s basketball would be the hardest sport to be drafted in. My source of the data displayed is from the NCAA.com 
 
 
 # History of the Pittsburgh Steelers Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dUiv4CEpOlvNDrUKl9_w-pvcLxTUO3wMQC72jI0NWW4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
- Here is a timeline of the Pittsburgh Steelers. They are one of the earliest teams founded and have remained a domiant force in the NFL for the past 50 years. Throughout their history, they have merged with other teams, created a new name, a new logo and have moved to three different stadiums. The Steelers hold the record of the most Super Bowls ever won by a team and are considered to have the most amount of fans of a team across the country. My sources are from NFL.com and Wikipedia  
+ This is a timeline of the Pittsburgh Steelers. The Steelers are one of the earliest teams founded in the country and have remained a domiant force in the NFL for the past 50 years. Throughout their history, they have merged with other teams, created a new name, a new logo and have moved to three different stadiums. The Steelers currently have the the most Super Bowls wins in the NFL and are considered to have the largest fanbase across the country. My sources are from NFL.com, Steelers.com and Wikipedia  
 
 # Increase in Tuition at Higher Education Schools in Pennsylvania
 
 ![Increase in tuition at higher education schools in Pennsylvania](https://github.com/MaddyHite/MaddyHite.github.io/blob/master/tuitionchartbuilder.png?raw=true)
 
-In this project I explored three different types of colleges (private university, public university and private college) and their tuition changes over the past 10 years. In my findings, I learned that although every rate went up, the small private college, Moravian college, had the highest overall percentage increase in tuition. While Moravian and Lehigh University appear to be on the same constant trend upward, with Lehigh Univeristy having an overall higher tuition to begin with, Moravian College has the largest percent increase over the past 10 years. In 2015, Lehigh University did not increase its tuition, it in fact decreased it a few thousand dollars from the previous year. Lehigh has had a 42.5% increase in tuition over the past 10 years while Moravian College has had a 44.5% increase. 
+In this project I explored three different types of institutions (private university, public university and private college) and their tuition changes over the past 10 years. In my findings, I learned that although every rate went up, the small private college, Moravian college, had the highest overall percentage increase in tuition. While Moravian and Lehigh University appear to be on the same constant trend upward, with Lehigh Univeristy having an overall higher tuition to begin with, Moravian College has the largest percent increase over the past 10 years. In 2015, Lehigh University did not increase its tuition, it in fact decreased a few thousand dollars from the year before. Lehigh has had a 42.5% increase in tuition over the past 10 years while Moravian College has had a 44.5% increase. 
 
 
 # Most Popular NFL Teams by State in the United States
